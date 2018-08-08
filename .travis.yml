@@ -9,3 +9,4 @@ deploy:
   on:
     repo: achuchulev/HelloUser
     branch: travis-release
+    tags: true
