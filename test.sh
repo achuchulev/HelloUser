@@ -3,9 +3,9 @@
 out = 'bash hello.sh user'
 
 if ["$out" == "user"]; then
-  echo Good!
+  echo Good
 else
-  echo Bad!
+  echo Bad
   exit 1
 fi
 
