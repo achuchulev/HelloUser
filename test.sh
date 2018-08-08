@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-out = "bash hello.sh user"
+out = 'bash hello.sh user'
 
 if ["$out" == "user"]; then
   echo Good!
