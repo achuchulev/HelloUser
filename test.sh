@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 out=$(bash hello.sh user)
-if [ "$out" == "user" ]; then
+if [ "$out" == "user1" ]; then
   echo Good
 else
   echo Bad
